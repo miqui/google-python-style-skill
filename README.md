@@ -26,7 +26,7 @@ When invoked, the agent checks Python code against the full Google style guide a
 Copy `python-style-guide.md` into your NanoClaw skills directory:
 
 ```bash
-cp python-style-guide.md /home/node/.claude/skills/python-style-guide/python-style-guide.md
+cp python-style-guide.md /home/node/.claude/skills/python-style-guide/SKILL.md
 ```
 
 Restart your NanoClaw container. The skill will appear as `/python-style-guide`.
